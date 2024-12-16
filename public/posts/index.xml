@@ -2,18 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on ぼくのBlog</title>
-    <link>https://boku.dev/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on ぼくのBlog</description>
     <generator>Hugo</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 12 Dec 2024 11:14:32 +0900</lastBuildDate>
-    <atom:link href="https://boku.dev/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>First Post</title>
-      <link>https://boku.dev/posts/first-post/</link>
-      <pubDate>Thu, 12 Dec 2024 11:14:32 +0900</pubDate>
-      <guid>https://boku.dev/posts/first-post/</guid>
-      <description>&lt;h1 id=&#34;test-ページ&#34;&gt;test ページ&lt;/h1&gt;&#xA;&lt;p&gt;これはテストページ&lt;/p&gt;</description>
-    </item>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
